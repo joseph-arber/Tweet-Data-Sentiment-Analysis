@@ -1,5 +1,5 @@
 #Social Media Analysis: Twitter Data 
-# Aim: To understand how twitter has percieved the democratic primaries, specifically the performance of Sanders and Buttigieg 
+# Aim: To understand how twitter has percieved the democratic primary elections so far. Specifically the performance of Sanders and Buttigieg 
 
 #Useful packages
 library(tidyr)
